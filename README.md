@@ -138,12 +138,3 @@ joblib>=1.3
 
 ---
 
-## What I'd Improve With More Time
-- **Hyperparameter tuning** with Optuna (Bayesian optimisation)
-- **Threshold optimisation** based on cost matrix (false negative = lost customer >> false positive = wasted call)
-- **Temporal validation** — split by customer join date, not random
-- **Feature store** — make features reusable across models
-- **CI/CD pipeline** — retrain monthly with fresh data and auto-deploy if AUC doesn't degrade
-
----
-
