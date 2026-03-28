@@ -147,5 +147,3 @@ joblib>=1.3
 
 ---
 
-## Author
-[Your Name] · [LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
